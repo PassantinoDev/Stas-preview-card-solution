@@ -1,1 +1,1 @@
-# Stas-preview-card-solution
+# Stats-preview-card-solution

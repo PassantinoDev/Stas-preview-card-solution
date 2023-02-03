@@ -1,1 +1,0 @@
-# Stas-preview-card-solution
